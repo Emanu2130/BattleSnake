@@ -1,0 +1,2741 @@
+fileFormatVersion: 2
+guid: 0ea742c4a97504b4e8de67bea7c4f414
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1856763359738704631
+    second: mmx_iOS_enemies1_0
+  - first:
+      213: -853210507273595202
+    second: mmx_iOS_enemies1_1
+  - first:
+      213: -3292934044941362737
+    second: mmx_iOS_enemies1_2
+  - first:
+      213: -7674284116031862693
+    second: mmx_iOS_enemies1_3
+  - first:
+      213: -2923234077546525113
+    second: mmx_iOS_enemies1_4
+  - first:
+      213: 5948439360340170509
+    second: mmx_iOS_enemies1_5
+  - first:
+      213: 3286125426629804297
+    second: mmx_iOS_enemies1_6
+  - first:
+      213: 3163122469375045483
+    second: mmx_iOS_enemies1_7
+  - first:
+      213: 6332883417990358109
+    second: mmx_iOS_enemies1_8
+  - first:
+      213: 7065712463327175869
+    second: mmx_iOS_enemies1_9
+  - first:
+      213: -3097505493013469770
+    second: mmx_iOS_enemies1_10
+  - first:
+      213: -2222030248367311763
+    second: mmx_iOS_enemies1_11
+  - first:
+      213: 7625944085937963367
+    second: mmx_iOS_enemies1_12
+  - first:
+      213: -7318469732926292239
+    second: mmx_iOS_enemies1_13
+  - first:
+      213: -3291852373822950066
+    second: mmx_iOS_enemies1_14
+  - first:
+      213: 6757935308220471944
+    second: mmx_iOS_enemies1_15
+  - first:
+      213: 9018274634863108026
+    second: mmx_iOS_enemies1_16
+  - first:
+      213: -4094550981646511769
+    second: mmx_iOS_enemies1_17
+  - first:
+      213: 3866438994324320239
+    second: mmx_iOS_enemies1_18
+  - first:
+      213: -4449458886830013463
+    second: mmx_iOS_enemies1_19
+  - first:
+      213: 5029929435247954302
+    second: mmx_iOS_enemies1_20
+  - first:
+      213: -6004140114654430031
+    second: mmx_iOS_enemies1_21
+  - first:
+      213: -6624282887621836131
+    second: mmx_iOS_enemies1_22
+  - first:
+      213: 1811439422335797793
+    second: mmx_iOS_enemies1_23
+  - first:
+      213: -7299398769835591084
+    second: mmx_iOS_enemies1_24
+  - first:
+      213: 6662198177405155292
+    second: mmx_iOS_enemies1_25
+  - first:
+      213: -6214446061471886178
+    second: mmx_iOS_enemies1_26
+  - first:
+      213: -991616381274314006
+    second: mmx_iOS_enemies1_27
+  - first:
+      213: 808148166460312586
+    second: mmx_iOS_enemies1_28
+  - first:
+      213: -5192917442796585311
+    second: mmx_iOS_enemies1_29
+  - first:
+      213: -1808926208990457518
+    second: mmx_iOS_enemies1_30
+  - first:
+      213: 5520157959154563129
+    second: mmx_iOS_enemies1_31
+  - first:
+      213: 2257411471049826432
+    second: mmx_iOS_enemies1_32
+  - first:
+      213: 8574965944441340857
+    second: mmx_iOS_enemies1_33
+  - first:
+      213: -1650197632187657231
+    second: mmx_iOS_enemies1_34
+  - first:
+      213: 7731380211474252248
+    second: mmx_iOS_enemies1_35
+  - first:
+      213: 8456951949548966074
+    second: mmx_iOS_enemies1_36
+  - first:
+      213: 2504543503740427401
+    second: mmx_iOS_enemies1_37
+  - first:
+      213: -2754568757966015808
+    second: mmx_iOS_enemies1_38
+  - first:
+      213: -4197031103949190
+    second: mmx_iOS_enemies1_39
+  - first:
+      213: -5965743008074249536
+    second: mmx_iOS_enemies1_40
+  - first:
+      213: 707737235540529562
+    second: mmx_iOS_enemies1_41
+  - first:
+      213: -5038907761718667872
+    second: mmx_iOS_enemies1_42
+  - first:
+      213: -8915573740487862417
+    second: mmx_iOS_enemies1_43
+  - first:
+      213: 3502681165986973312
+    second: mmx_iOS_enemies1_44
+  - first:
+      213: 7359929621554789995
+    second: mmx_iOS_enemies1_45
+  - first:
+      213: -7208146655298266981
+    second: mmx_iOS_enemies1_46
+  - first:
+      213: -8202690400146012657
+    second: mmx_iOS_enemies1_47
+  - first:
+      213: -1086561445313402151
+    second: mmx_iOS_enemies1_48
+  - first:
+      213: 4172713793466746615
+    second: mmx_iOS_enemies1_49
+  - first:
+      213: 5652597924009071968
+    second: mmx_iOS_enemies1_50
+  - first:
+      213: 888197626986130887
+    second: mmx_iOS_enemies1_51
+  - first:
+      213: -1810664333275203395
+    second: mmx_iOS_enemies1_52
+  - first:
+      213: 8216449536668080059
+    second: mmx_iOS_enemies1_53
+  - first:
+      213: 6191061247221305624
+    second: mmx_iOS_enemies1_54
+  - first:
+      213: -1469508857177103466
+    second: mmx_iOS_enemies1_55
+  - first:
+      213: -5329772627629129025
+    second: mmx_iOS_enemies1_56
+  - first:
+      213: -3850435843149221941
+    second: mmx_iOS_enemies1_57
+  - first:
+      213: -3562367724617370132
+    second: mmx_iOS_enemies1_58
+  - first:
+      213: -1980851981988902294
+    second: mmx_iOS_enemies1_59
+  - first:
+      213: 7737729206315200476
+    second: mmx_iOS_enemies1_60
+  - first:
+      213: 3763942163706278127
+    second: mmx_iOS_enemies1_61
+  - first:
+      213: -6640623691982701884
+    second: mmx_iOS_enemies1_62
+  - first:
+      213: -6138117343689639605
+    second: mmx_iOS_enemies1_63
+  - first:
+      213: 6498244168359180600
+    second: mmx_iOS_enemies1_64
+  - first:
+      213: 8140771716209517451
+    second: mmx_iOS_enemies1_65
+  - first:
+      213: 7930030496931857156
+    second: mmx_iOS_enemies1_66
+  - first:
+      213: 8602539020719463026
+    second: mmx_iOS_enemies1_67
+  - first:
+      213: -5680956471152805265
+    second: mmx_iOS_enemies1_68
+  - first:
+      213: -2533690404219720918
+    second: mmx_iOS_enemies1_69
+  - first:
+      213: -3872349095458306484
+    second: mmx_iOS_enemies1_70
+  - first:
+      213: -6734796162034405045
+    second: mmx_iOS_enemies1_71
+  - first:
+      213: 3291522445691030414
+    second: mmx_iOS_enemies1_72
+  - first:
+      213: -3342519417970345590
+    second: mmx_iOS_enemies1_73
+  - first:
+      213: -5889939411609164436
+    second: mmx_iOS_enemies1_74
+  - first:
+      213: -1232544277477400078
+    second: mmx_iOS_enemies1_75
+  - first:
+      213: 4778726072675257888
+    second: mmx_iOS_enemies1_76
+  - first:
+      213: -6727475097712223520
+    second: mmx_iOS_enemies1_77
+  - first:
+      213: -4483308490478306537
+    second: mmx_iOS_enemies1_78
+  - first:
+      213: -913207880579510945
+    second: mmx_iOS_enemies1_79
+  - first:
+      213: 3089387260524660838
+    second: mmx_iOS_enemies1_80
+  - first:
+      213: 7114659226861787297
+    second: mmx_iOS_enemies1_81
+  - first:
+      213: 192320583548205913
+    second: mmx_iOS_enemies1_82
+  - first:
+      213: 6974797527975212197
+    second: mmx_iOS_enemies1_83
+  - first:
+      213: -5530589607333189031
+    second: mmx_iOS_enemies1_84
+  - first:
+      213: -2082992706363784989
+    second: mmx_iOS_enemies1_85
+  - first:
+      213: 7324599812349872704
+    second: mmx_iOS_enemies1_86
+  - first:
+      213: 1877325277560988218
+    second: mmx_iOS_enemies1_87
+  - first:
+      213: -5506970089792427153
+    second: mmx_iOS_enemies1_88
+  - first:
+      213: 2544236313007238249
+    second: mmx_iOS_enemies1_89
+  - first:
+      213: 6519699867038103168
+    second: mmx_iOS_enemies1_90
+  - first:
+      213: -715668053972979585
+    second: mmx_iOS_enemies1_91
+  - first:
+      213: -520794068778308409
+    second: mmx_iOS_enemies1_92
+  - first:
+      213: -358648372962344485
+    second: mmx_iOS_enemies1_93
+  - first:
+      213: -1078208303103790251
+    second: mmx_iOS_enemies1_94
+  - first:
+      213: 41702717466075122
+    second: mmx_iOS_enemies1_95
+  - first:
+      213: 7968034803002901373
+    second: mmx_iOS_enemies1_96
+  - first:
+      213: -1697489658263790826
+    second: mmx_iOS_enemies1_97
+  - first:
+      213: -19893869696907880
+    second: mmx_iOS_enemies1_98
+  - first:
+      213: -3760962681365385902
+    second: mmx_iOS_enemies1_99
+  - first:
+      213: -3918625290279328584
+    second: mmx_iOS_enemies1_100
+  - first:
+      213: -7897673313918902606
+    second: mmx_iOS_enemies1_101
+  - first:
+      213: -6097967090191927007
+    second: mmx_iOS_enemies1_102
+  - first:
+      213: 3418831116683148122
+    second: mmx_iOS_enemies1_103
+  - first:
+      213: 5681612957276079124
+    second: mmx_iOS_enemies1_104
+  - first:
+      213: 7334582545288913069
+    second: mmx_iOS_enemies1_105
+  - first:
+      213: 7361784467018314650
+    second: mmx_iOS_enemies1_106
+  - first:
+      213: -7665206179552153940
+    second: mmx_iOS_enemies1_107
+  - first:
+      213: -426924093254914051
+    second: mmx_iOS_enemies1_108
+  - first:
+      213: 4371344582222855584
+    second: mmx_iOS_enemies1_109
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1894
+        width: 158
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b843612ae6cd8594ca32ed7ea126d148
+      internalID: 1856763359738704631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_1
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1894
+        width: 173
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24529ac448c97fd4b97ac5e4750a367a
+      internalID: -853210507273595202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1894
+        width: 92
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57793666e57281347ae801ae040dacf2
+      internalID: -3292934044941362737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_3
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1894
+        width: 157
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379b7c3a721d5a24fb28333d85605c75
+      internalID: -7674284116031862693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_4
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1894
+        width: 78
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e65aa932314f0479abfc7dfc27c00c
+      internalID: -2923234077546525113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1802
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3374e37959e35342962fa98bc9cfa24
+      internalID: 5948439360340170509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_6
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1802
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858773612a4fa214291d939b49f0156d
+      internalID: 3286125426629804297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_7
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1802
+        width: 131
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a128ad5286dccea48beaa43cc2fe1c4c
+      internalID: 3163122469375045483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1777
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebff5bb46efdc444b55c3c9867fd2e0
+      internalID: 6332883417990358109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1784
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd507912c08e0ec408a07a5ccccbc5f6
+      internalID: 7065712463327175869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_10
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1588
+        width: 79
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916b5c0cda2415b45b201dc4a5b6b811
+      internalID: -3097505493013469770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1577
+        width: 78
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16092ceb2b4d23e468da41fd10636b31
+      internalID: -2222030248367311763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1759
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c954df6f6f899ba489c81ff4367b7b90
+      internalID: 7625944085937963367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_13
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1765
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2cdebd7f8b09548af1d0e498357751
+      internalID: -7318469732926292239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_14
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1589
+        width: 127
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098902575b6609f4aa593f78b39455b0
+      internalID: -3291852373822950066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1589
+        width: 86
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a405a4ae174613541bdf271237eb635f
+      internalID: 6757935308220471944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1577
+        width: 78
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325be325a9f3329418677909ad6687dd
+      internalID: 9018274634863108026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1589
+        width: 126
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8c4126f0eb6944189ed097f1ba6d93
+      internalID: -4094550981646511769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_18
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1589
+        width: 143
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0176dca925068444a17a7976210474f
+      internalID: 3866438994324320239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1457
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074bc110b3396ab4b9b5d57774746a08
+      internalID: -4449458886830013463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1448
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afd26dec4c6d9149ba1ea6958862549
+      internalID: 5029929435247954302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_21
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1485
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb663e4b1fca3d4a9ecd43c9575d2f1
+      internalID: -6004140114654430031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_22
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1457
+        width: 34
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473b1e92f4515bb48a06394478fa8a77
+      internalID: -6624282887621836131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_23
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1482
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0fb43925e4b864d9f5f8a4f00a781b
+      internalID: 1811439422335797793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_24
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1488
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a156d73c504b8c44b99c8dfa3e59258a
+      internalID: -7299398769835591084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_25
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1474
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db82493506b29c47bff84aafe4831e1
+      internalID: 6662198177405155292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_26
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1452
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7708be248e612946a909917916b2a80
+      internalID: -6214446061471886178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_27
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1500
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374d2d0e1116f604f986f8ebb6a88984
+      internalID: -991616381274314006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_28
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1500
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f4335ce29e8b74f9ed168985baf359
+      internalID: 808148166460312586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_29
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1506
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c290222f4d19d48a804d3ca74e850f
+      internalID: -5192917442796585311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_30
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1515
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21f9bfab811c9d4388655b864408349
+      internalID: -1808926208990457518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_31
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1523
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8aff1bcbf5e6a4d8dddb7a0d346927
+      internalID: 5520157959154563129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_32
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1504
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2c0c57b92f1cb4d8044f3f3b2a402a
+      internalID: 2257411471049826432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1338
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3b3e4fe2d0bb043aaf3212f7346262
+      internalID: 8574965944441340857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_34
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1316
+        width: 130
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315bce215cace2b469cdc9a9f9324b07
+      internalID: -1650197632187657231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1302
+        width: 160
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b340ce515d488a46a302375d9a92f3b
+      internalID: 7731380211474252248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_36
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1360
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe34fd59153d3048bf55942457d3654
+      internalID: 8456951949548966074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_37
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1380
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebba36ebde63ed46bc146001ac262ce
+      internalID: 2504543503740427401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_38
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1376
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6f7bbea18261f448b6f658ed5f5a18
+      internalID: -2754568757966015808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_39
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1376
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75e60c575964524c8a58977ee9f0837
+      internalID: -4197031103949190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_40
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1364
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f382e2d5fdce9438eff830a3e020d6
+      internalID: -5965743008074249536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_41
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1368
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d8766fc363c694db897cd39ad40b06
+      internalID: 707737235540529562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_42
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1360
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8185e034a8a181b4dadd51d906a043ca
+      internalID: -5038907761718667872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_43
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1364
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bef0071e30ccfb42a9681885076e8ac
+      internalID: -8915573740487862417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_44
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1315
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8fb940e29f8be4f83914892ce8150d
+      internalID: 3502681165986973312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_45
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1310
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a06005ae9bcf2f45aae1ad8f8c126dd
+      internalID: 7359929621554789995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_46
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1316
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7667bf19cabd66e49b698390b707b5c3
+      internalID: -7208146655298266981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1165
+        width: 227
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b788b80da7c1f6408a0a90da59c7205
+      internalID: -8202690400146012657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_48
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1169
+        width: 122
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3422c800d850d64488d23d8d6ae003c3
+      internalID: -1086561445313402151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_49
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1169
+        width: 163
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d02dbad5b9e21b4a84c7702be2c501a
+      internalID: 4172713793466746615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_50
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1169
+        width: 178
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f58ae948d40a14ea8c489690305692
+      internalID: 5652597924009071968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1016
+        width: 110
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f33299c09d35c8479bf89750d02d998
+      internalID: 888197626986130887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_52
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1048
+        width: 114
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac199949ebca894698b6f63013cccd1
+      internalID: -1810664333275203395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_53
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1016
+        width: 103
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b0a0c978e4b4549adb94d1b121cb74
+      internalID: 8216449536668080059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_54
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1014
+        width: 125
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90763417f3a32a142bb496ec21495d09
+      internalID: 6191061247221305624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_55
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 998
+        width: 114
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b00811644178be4e9db0bc62a17e3f9
+      internalID: -1469508857177103466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_56
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 951
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e7674db76fbba40b8c44a1df1a1338
+      internalID: -5329772627629129025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_57
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 948
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ace1634973c8e2428b3ffc6490e0efc
+      internalID: -3850435843149221941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_58
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 954
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae49851f794f774ba2fc4b8b153ad59
+      internalID: -3562367724617370132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_59
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 959
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5302580d33af3aa4f99f321c7cccf3b2
+      internalID: -1980851981988902294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_60
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 839
+        width: 59
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feffac8dc8ca4304b8588f0320ca1c98
+      internalID: 7737729206315200476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_61
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 839
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2f7615b88f8c8459270aa3394f6641
+      internalID: 3763942163706278127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_62
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 838
+        width: 58
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92a7b11e9b71c3448e6ef814717a97c
+      internalID: -6640623691982701884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_63
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 837
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f29b35301555041b9b943aec0bb7ab
+      internalID: -6138117343689639605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_64
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 838
+        width: 95
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c400bc0c6cd497d4f83625421d7acfa9
+      internalID: 6498244168359180600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_65
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 843
+        width: 118
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26400c069f61da4787bb5d41fe77c2c
+      internalID: 8140771716209517451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_66
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 842
+        width: 158
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3c7bd795f77b148bd1b11d623b25f3
+      internalID: 7930030496931857156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 689
+        width: 186
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dd511da69e98c44a1b25f035c370ea
+      internalID: 8602539020719463026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_68
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 689
+        width: 180
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d79fd70a2ceeea4da212b6a0972b556
+      internalID: -5680956471152805265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_69
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 689
+        width: 162
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182c164bfcc636f4baa21fefe72dc167
+      internalID: -2533690404219720918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_70
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 689
+        width: 130
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96faa8252668ce549a8a64b670b154cb
+      internalID: -3872349095458306484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_71
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 642
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf1177944ca327409b0aa33efd077d6
+      internalID: -6734796162034405045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_72
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 642
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b96d424ce402940b22a7cb864f2ec6
+      internalID: 3291522445691030414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_73
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 641
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f3620ddd6ca0e44af49bd577db58fb
+      internalID: -3342519417970345590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_74
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 641
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1db217bbc40e0d43bbbfa9993309906
+      internalID: -5889939411609164436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_75
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 640
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1518856194bca42afa5355fb8adf91
+      internalID: -1232544277477400078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_76
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 610
+        width: 130
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085aea915afe93a4ab3a1bd2635b067f
+      internalID: 4778726072675257888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_77
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 617
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05210d71910b1304f8f675068855a2a5
+      internalID: -6727475097712223520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_78
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 616
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a4484eb84bd3341a684f52d22fbc72
+      internalID: -4483308490478306537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_79
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 616
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38513203f5f979d419077b76e1a9a8c9
+      internalID: -913207880579510945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_80
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 480
+        width: 111
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b0a51bd1180194d8baeb81d302517c
+      internalID: 3089387260524660838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_81
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 480
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea683e6a54072e479650fdeed585946
+      internalID: 7114659226861787297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_82
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 481
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746fe1b8b37059d4e8ad7b58b36a2ce6
+      internalID: 192320583548205913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_83
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 482
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fd27cfeef2c3a48aa13261bf7248db
+      internalID: 6974797527975212197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_84
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 482
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf012d80463d2f74481cd28d1a104f84
+      internalID: -5530589607333189031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_85
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 482
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5235a2645bb707409e3c6653c79eb61
+      internalID: -2082992706363784989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_86
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 499
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bb928cf681a4347ad9d4261066832e
+      internalID: 7324599812349872704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_87
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 291
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171833355980de74d914fa662d80eabc
+      internalID: 1877325277560988218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_88
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 294
+        width: 143
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2da1306fdca646428d88a25c70ed0c1
+      internalID: -5506970089792427153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_89
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 293
+        width: 130
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0b9d605cd20c5469d6538ee15cdaff
+      internalID: 2544236313007238249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_90
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 324
+        width: 138
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698921238d2c6a944a55ad1e03ca0e2b
+      internalID: 6519699867038103168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_91
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 321
+        width: 155
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e8b9ff830d382489893f92936df622
+      internalID: -715668053972979585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_92
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 141
+        width: 122
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9ea14dd8613c74ea4591d0c1799fa7
+      internalID: -520794068778308409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_93
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 144
+        width: 115
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ec7afbfefc1bf40a58262346411c62
+      internalID: -358648372962344485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_94
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 147
+        width: 115
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2e5e94b917af3468b76b484efc47b1
+      internalID: -1078208303103790251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_95
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 151
+        width: 163
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fa49d70cf84244fb659230b67a9e38
+      internalID: 41702717466075122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_96
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 151
+        width: 191
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02af3de774ca37c49a77709891356716
+      internalID: 7968034803002901373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_97
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 215
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700d86761e48c5c4f92dacfb7ac9a8bb
+      internalID: -1697489658263790826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_98
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 199
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f05d893c3ebe948b283e2b2dc5c707
+      internalID: -19893869696907880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_99
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 29
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d482bd623e02345a4faf7a4f8940fb
+      internalID: -3760962681365385902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_100
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 29
+        width: 87
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b513a9e004c4c4c899f1150c10e868
+      internalID: -3918625290279328584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_101
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 24
+        width: 83
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e23a63a3484e341a64c700193d00c2
+      internalID: -7897673313918902606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_102
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 24
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884a153f505e97840a7e653a0597fbf6
+      internalID: -6097967090191927007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_103
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 24
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3619d86be2aa74f904957946f12499
+      internalID: 3418831116683148122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_104
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 24
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be3aa6981e354f43868f766b764144b
+      internalID: 5681612957276079124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_105
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 83
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a677f165f6ae4624c98ab3d79a9abfe6
+      internalID: 7334582545288913069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_106
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 83
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7b355baa4cf6043a3983a9f652c02f
+      internalID: 7361784467018314650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_107
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 15
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd106810cc6dc2847a0c52823ea12e75
+      internalID: -7665206179552153940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_108
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 34
+        width: 66
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1664e35c6ed57b49ad7c762af25bf15
+      internalID: -426924093254914051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_iOS_enemies1_109
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 33
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6952cea0d92ebf4eb76b8bc788969da
+      internalID: 4371344582222855584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 206021188717d424aafd18f3752ac242
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
