@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 2303253}
   - component: {fileID: 2303252}
   m_Layer: 0
-  m_Name: Controller
+  m_Name: GameController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -146,9 +146,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 2303251}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0a890b6c7c515534e85d1bd8de5f32b5, type: 3}
+  m_Script: {fileID: 11500000, guid: fd040999ac49d6d469776ae1fe7ca721, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  bullet: {fileID: 0}
+  holdIzq: 0
+  holdDer: 0
 --- !u!4 &2303253
 Transform:
   m_ObjectHideFlags: 0
@@ -278,8 +282,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -260, y: -51.100006}
-  m_SizeDelta: {x: 391.5, y: 102.2}
+  m_AnchoredPosition: {x: -215.7, y: -55.9}
+  m_SizeDelta: {x: 303, y: 92.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &496811642
 MonoBehaviour:
@@ -570,8 +574,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -260, y: 154}
-  m_SizeDelta: {x: 391.5, y: 103.5}
+  m_AnchoredPosition: {x: -221.9, y: 145.1}
+  m_SizeDelta: {x: 315.2, y: 85.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &759420298
 MonoBehaviour:
@@ -799,7 +803,7 @@ Canvas:
   m_GameObject: {fileID: 1063062701}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_Camera: {fileID: 1604750366}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
@@ -950,8 +954,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 253, y: 154}
-  m_SizeDelta: {x: 391.5, y: 103.5}
+  m_AnchoredPosition: {x: 231.9, y: 145.13}
+  m_SizeDelta: {x: 349.3, y: 85.75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1583299258
 MonoBehaviour:
@@ -1123,7 +1127,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1604750364}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 500.03, y: 399.97, z: -10}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1244,8 +1248,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 253, y: -51.100006}
-  m_SizeDelta: {x: 391.5, y: 102.2}
+  m_AnchoredPosition: {x: 219.6, y: -60.6}
+  m_SizeDelta: {x: 324.7, y: 83.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1960588006
 MonoBehaviour:

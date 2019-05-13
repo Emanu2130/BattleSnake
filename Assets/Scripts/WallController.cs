@@ -12,9 +12,9 @@ public class WallController : MonoBehaviour
         Bullet =  GameObject.FindGameObjectWithTag("Bullet");
     }
 
-    void OnTriggerEnter2D(Collider2D other) {
+    /* void OnTriggerEnter2D(Collider2D other) {
         if(other.tag == "Bullet"){
             Destroy(Bullet);
         }
-    }
+    } */
 }

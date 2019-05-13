@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 7577752111949661349}
   m_Layer: 0
   m_Name: Enemy5
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -111,7 +111,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7577752111949661369}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -153,4 +153,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
+  bulletSpeed: 0
   padding: 2
+  hor: 0
+  ver: 0
+  localScale: {x: 0, y: 0, z: 0}
+  Bullet: {fileID: 0}
+  Head: {fileID: 0}

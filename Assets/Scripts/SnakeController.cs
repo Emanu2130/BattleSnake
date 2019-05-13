@@ -6,24 +6,16 @@ public class SnakeController : MonoBehaviour
 {
 
     public float speed = 10f;
-    public float bulletSpeed = 0;
-    public float padding = 2;
-    private Rigidbody2D rb2d;
-    public float hor, ver;
-    public Vector3 localScale;
-    public GameObject Bullet;
-    public GameObject Head;
+    public float hor;
+    public GameObject bullet;
 
     void Start(){
         transform.position = new Vector3(0,0,transform.position.z);
-        Bullet =  GameObject.FindGameObjectWithTag("Bullet");
-        //Bullet.transform.position = new Vector3(transform.position.x,transform.position.y, transform.position.z);
-
+        
     }
 
     // Update is called once per frame
     void Update(){
-        //Vector3 dir = Quaternion.AngleAxis(angle, Vector3.forward) * Vector3.right;
         float InputHor = Input.GetAxis("Horizontal");
 
         transform.Translate (0, -speed * Time.deltaTime, 0);
@@ -31,16 +23,23 @@ public class SnakeController : MonoBehaviour
         //Rotacion 
         if(InputHor > 0 && InputHor != 0){
             transform.Rotate(0,0,-4f); 
-            //Bullet.transform.Rotate(0,0,0);
         }else if(InputHor < 0 && InputHor != 0){
             transform.Rotate(0,0,4f); 
-            //Bullet.transform.Rotate(0,0,0);
         }
 
-        if(Input.GetKeyDown(KeyCode.Space) && Bullet.tag == "Bullet"){
-            bulletSpeed = 5f;
+        //Disparo
+        if(Input.GetKeyDown(KeyCode.Space)){
+            var snake = GameObject.Find("Snake");
+            if(snake != null){
+                Instantiate(bullet, snake.transform.position, Quaternion.identity);
+            }
         }
-            Bullet.transform.Translate((bulletSpeed) * Time.deltaTime, 0, 0);
+
+        var enemy = GameObject.Find("Enemy");
+        print(enemy.transform.childCount);
+        if(enemy.transform.childCount == 0){
+            //print("Cambio de Nivel");
+        }
     }
 
     
@@ -53,6 +52,8 @@ public class SnakeController : MonoBehaviour
     }
 
     void OnTriggerEnter2D(Collider2D other) {
-        print("Mmamaguevo dejeme quieto!!");
+        if(other.tag == "Enemy"){
+           // print("Mmamaguevo dejeme quieto!!");
+        }
     }
 }

@@ -84,9 +84,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
-  padding: 2
   hor: 0
-  ver: 0
+  bullet: {fileID: 0}
 --- !u!1 &1165648971463320355
 GameObject:
   m_ObjectHideFlags: 0
