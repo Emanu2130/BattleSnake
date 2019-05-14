@@ -7,14 +7,15 @@ public class SnakeController : MonoBehaviour
 {
 
     public float speed = 10f;
-    public float currentHP, totalHP = 100;
+    public float currentHP, totalHP;
     public float hor;
     public GameObject bullet;
     public GameObject health; 
 
     void Start(){
         transform.position = new Vector3(0,0,transform.position.z);
-        currentHP = totalHP;
+        totalHP = 100;
+        currentHP = PlayerPrefs.GetInt("PlayerHealth");
     }
 
     // Update is called once per frame
@@ -37,20 +38,13 @@ public class SnakeController : MonoBehaviour
                 Instantiate(bullet, snake.transform.position, Quaternion.identity);
             }
         }
-
-        var enemy = GameObject.Find("Enemy");
-        print(enemy.transform.childCount);
-        if(enemy.transform.childCount == 0){
-            //print("Cambio de Nivel");
-        }
     }
 
     
 
     void OnCollisionEnter2D(Collision2D collision) {
         if(collision.gameObject.tag == "Wall"){
-            currentHP -= 20;
-            print("Current HP : " + currentHP + " Total: " + totalHP);
+            currentHP -= 5;
             health.transform.localScale = new Vector3((currentHP / totalHP), 1, 0);
             if(currentHP == 0){
                 SceneManager.LoadScene("Game Over");
@@ -62,7 +56,7 @@ public class SnakeController : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other) {
         if(other.tag == "Enemy"){
-            currentHP -= 20;
+            currentHP -= 5;
             health.transform.localScale = new Vector3((currentHP / totalHP), 1, 0);
             if(currentHP == 0){
                 SceneManager.LoadScene("Game Over");

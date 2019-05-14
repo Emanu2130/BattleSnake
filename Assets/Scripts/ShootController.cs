@@ -25,6 +25,7 @@ public class ShootController : MonoBehaviour
             Destroy(gameObject);
         }
     }
+    
 
     void shoot(){
         transform.Rotate(0, 0, snakeZ);

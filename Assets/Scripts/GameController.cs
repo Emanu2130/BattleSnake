@@ -10,6 +10,7 @@ public class GameController : MonoBehaviour
     public GameObject player;
     public GameObject bullet;
     public bool holdIzq, holdDer;
+    //public string level;
 
     
 
@@ -23,6 +24,11 @@ public class GameController : MonoBehaviour
             player.transform.Rotate(0,0,4f);
         }else if(holdDer){
             player.transform.Rotate(0,0,-4f);
+        }
+
+        var enemy = GameObject.Find("Enemy");
+        if(enemy.transform.childCount == 0){
+           // SceneManager.LoadScene(level);
         }
 
     }
@@ -50,14 +56,5 @@ public class GameController : MonoBehaviour
                 Instantiate(bullet, snake.transform.position, Quaternion.identity);
             }
         }
-    }
-
-    public void changeLevel(string level){
-        SceneManager.LoadScene(level);
-    }
-
-    public void Exit(){
-        print("BYE BYE");
-        Application.Quit();
     }
 }
