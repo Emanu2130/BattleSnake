@@ -129,7 +129,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10168}
     - Class: 114
-      Script: {instanceID: 11796}
+      Script: {instanceID: 11842}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -857,4 +857,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Dashboard.unity
   - Assets/Scenes/Top 5 Players.unity
   - Assets/Scenes/Level 1.unity
-  playerPath: C:/Users/Crazy Imagine 2/Desktop/Material Unet/Proyecto/BattleSnake.exe
+  playerPath: C:/Users/Crazy Imagine 2/Desktop/Material Unet/Proyecto/AndroidBeta/BattleSnake.exe

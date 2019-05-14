@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemyController : MonoBehaviour
 {
-    public float speed = 2;
+    public float speed;
     private Transform target;
     public GameObject Bullet;
 
