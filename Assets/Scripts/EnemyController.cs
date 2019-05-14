@@ -15,8 +15,8 @@ public class EnemyController : MonoBehaviour
     void Start(){
         target =  GameObject.FindGameObjectWithTag("Snake").GetComponent<Transform>();
         Bullet =  GameObject.FindGameObjectWithTag("Bullet");
-        snakePoints = 0;
-        i = 0;
+        snakePoints = PlayerPrefs.GetInt("PlayerPoints");
+        score.text = "Score:" + PlayerPrefs.GetInt("PlayerPoints");
     }
 
     // Update is called once per frame
@@ -31,7 +31,7 @@ public class EnemyController : MonoBehaviour
             PlayerPrefs.SetInt("PlayerPoints", snakePoints);
             Destroy(this.gameObject);
             Destroy(Bullet);
-            score.text = "Score: " + snakePoints.ToString();
+            score.text = "Score:" + PlayerPrefs.GetInt("PlayerPoints");
         }
     }
 }

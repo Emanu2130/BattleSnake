@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: bdf945569ac736f448731f5194390de8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Atarian System
+  fontNames:
+  - SF Atarian System
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 22aa7b4b98e01f740a5bfb11fa648ff3, type: 3}
+  - {fileID: 12800000, guid: 2816c90c8b3ddd54d90eabfd5fe4bebd, type: 3}
+  - {fileID: 12800000, guid: 5bd6051eb45cb9849a00c530004cb7fe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

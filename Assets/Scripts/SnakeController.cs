@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class SnakeController : MonoBehaviour
 {
 
-    public float speed = 10f;
+    public float speed = 11f;
     public float currentHP, totalHP;
     public float hor;
     public GameObject bullet;
@@ -15,7 +15,8 @@ public class SnakeController : MonoBehaviour
     void Start(){
         transform.position = new Vector3(0,0,transform.position.z);
         totalHP = 100;
-        currentHP = PlayerPrefs.GetInt("PlayerHealth");
+        currentHP = PlayerPrefs.GetFloat("PlayerHealth");
+        health.transform.localScale = new Vector3((currentHP / totalHP), 1, 0);
     }
 
     // Update is called once per frame
@@ -45,8 +46,9 @@ public class SnakeController : MonoBehaviour
     void OnCollisionEnter2D(Collision2D collision) {
         if(collision.gameObject.tag == "Wall"){
             currentHP -= 5;
+            PlayerPrefs.SetFloat("PlayerHealth", currentHP);
             health.transform.localScale = new Vector3((currentHP / totalHP), 1, 0);
-            if(currentHP == 0){
+            if(currentHP == 0 || currentHP / totalHP == 0){
                 SceneManager.LoadScene("Game Over");
             } 
             transform.position = new Vector3(0, 0, transform.position.z);
@@ -57,8 +59,9 @@ public class SnakeController : MonoBehaviour
     void OnTriggerEnter2D(Collider2D other) {
         if(other.tag == "Enemy"){
             currentHP -= 5;
-            health.transform.localScale = new Vector3((currentHP / totalHP), 1, 0);
-            if(currentHP == 0){
+            PlayerPrefs.SetFloat("PlayerHealth", currentHP);
+            health.transform.localScale = new Vector3((currentHP / totalHP), 1, 0);            
+            if(currentHP == 0 || currentHP / totalHP == 0){
                 SceneManager.LoadScene("Game Over");
             } 
         }

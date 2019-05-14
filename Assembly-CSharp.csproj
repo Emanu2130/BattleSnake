@@ -61,6 +61,7 @@
      <Compile Include="Assets\Scripts\ShootController.cs" />
      <Compile Include="Assets\Scripts\SnakeController.cs" />
      <Compile Include="Assets\Scripts\WallController.cs" />
+     <None Include="Assets\Fonts\Atarian\Readme.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Crazy Imagine 2/Desktop/Material Unet/Proyecto/BattleSnake/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

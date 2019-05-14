@@ -10,7 +10,7 @@ public class GameController : MonoBehaviour
     public GameObject player;
     public GameObject bullet;
     public bool holdIzq, holdDer;
-    //public string level;
+    public string level;
 
     
 
@@ -28,7 +28,7 @@ public class GameController : MonoBehaviour
 
         var enemy = GameObject.Find("Enemy");
         if(enemy.transform.childCount == 0){
-           // SceneManager.LoadScene(level);
+           SceneManager.LoadScene(level);
         }
 
     }

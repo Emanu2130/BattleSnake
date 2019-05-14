@@ -132,6 +132,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5aca9475b5af4c7479157d89c2298a62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletSpeed: 7
+  bulletSpeed: 6
   snake: {fileID: 0}
   snakeZ: 0

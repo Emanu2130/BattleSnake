@@ -1,4 +1,0 @@
-#Tue May 14 00:23:42 VET 2019
-base.0=C\:\\Users\\Crazy Imagine 2\\Desktop\\Material Unet\\Proyecto\\BattleSnake\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
-path.0=classes.dex
-renamed.0=classes.dex

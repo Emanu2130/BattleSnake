@@ -12,8 +12,20 @@ EditorBuildSettings:
     path: Assets/Scenes/Top 5 Players.unity
     guid: 88e99611b9261544eb93ae393376c709
   - enabled: 1
-    path: Assets/Scenes/Level 1.unity
+    path: Assets/Scenes/Level 2.unity
     guid: bba8ab8d707e2e64a8e5a625a3a8eefc
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 39b53864a2e05ef4da8afbfc67979c35
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 8bd6a196dc8bd384b8867e77565f1909
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: d8451c17f91ae524ea84473634a88b29
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 08f2eb7e330721044851993bd06341fa
   - enabled: 1
     path: Assets/Scenes/Game Over.unity
     guid: a934ac7dcfc9f9444b6591c4e4f61867

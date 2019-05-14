@@ -8,7 +8,7 @@ using UnityEngine.SceneManagement;
 public class MenuController : MonoBehaviour
 {
     void Start(){
-        PlayerPrefs.SetInt("PlayerHealth", 100);
+        PlayerPrefs.SetFloat("PlayerHealth", 100);
         PlayerPrefs.SetInt("PlayerPoints", 0);
     }
  
