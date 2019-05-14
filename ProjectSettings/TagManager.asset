@@ -9,6 +9,11 @@ TagManager:
   - Enemy
   - Bullet
   - Left
+  - HighScoreBox
+  - HighScoreList
+  - position
+  - score
+  - name
   layers:
   - Default
   - TransparentFX
