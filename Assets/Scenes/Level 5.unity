@@ -714,7 +714,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c86a6b2b18122364c816d5f59167e5b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 2.25
   snakePoints: 0
   score: {fileID: 848678909}
   i: 0
@@ -844,7 +844,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c7e3ce1e39ab134aa615b125dd7c223, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 4
+  speed: 3
   currentHP: 0
   totalHP: 0
   hor: 0
@@ -1305,7 +1305,7 @@ MonoBehaviour:
   bullet: {fileID: 1995294119578428878, guid: f2c51624192e98243ba927d51941f3d0, type: 3}
   holdIzq: 0
   holdDer: 0
-  level: Credits
+  level: Winner
 --- !u!4 &837511513
 Transform:
   m_ObjectHideFlags: 0
@@ -1354,7 +1354,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -46, y: -324}
+  m_AnchoredPosition: {x: -46, y: -305}
   m_SizeDelta: {x: 300, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &848678909
@@ -1493,7 +1493,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c86a6b2b18122364c816d5f59167e5b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2.75
+  speed: 2
   snakePoints: 0
   score: {fileID: 848678909}
   i: 0
@@ -1749,7 +1749,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c86a6b2b18122364c816d5f59167e5b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2.5
+  speed: 1.25
   snakePoints: 0
   score: {fileID: 848678909}
   i: 0
@@ -1848,7 +1848,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c86a6b2b18122364c816d5f59167e5b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2.75
+  speed: 2
   snakePoints: 0
   score: {fileID: 848678909}
   i: 0
@@ -2215,7 +2215,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c86a6b2b18122364c816d5f59167e5b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2.5
+  speed: 1.75
   snakePoints: 0
   score: {fileID: 848678909}
   i: 0
@@ -2350,7 +2350,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c86a6b2b18122364c816d5f59167e5b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2.5
+  speed: 1.75
   snakePoints: 0
   score: {fileID: 848678909}
   i: 0
@@ -3328,7 +3328,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c86a6b2b18122364c816d5f59167e5b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2.5
+  speed: 1.5
   snakePoints: 0
   score: {fileID: 848678909}
   i: 0
