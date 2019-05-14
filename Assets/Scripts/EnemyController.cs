@@ -32,6 +32,7 @@ public class EnemyController : MonoBehaviour
             Destroy(this.gameObject);
             Destroy(Bullet);
             score.text = "Score:" + PlayerPrefs.GetInt("PlayerPoints");
+            PlayerPrefs.Save();
         }
     }
 }
