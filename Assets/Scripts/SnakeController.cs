@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class SnakeController : MonoBehaviour
 {
 
-    public float speed = 11f;
+    public float speed = 2f;
     public float currentHP, totalHP;
     public float hor;
     public GameObject bullet;

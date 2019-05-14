@@ -31,7 +31,7 @@ public class EnemyController : MonoBehaviour
             PlayerPrefs.SetInt("PlayerPoints", snakePoints);
             Destroy(this.gameObject);
             Destroy(Bullet);
-            score.text = "Score:" + PlayerPrefs.GetInt("PlayerPoints");
+            score.text = "Score: " + PlayerPrefs.GetInt("PlayerPoints");
         }
     }
 }

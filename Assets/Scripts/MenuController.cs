@@ -20,8 +20,7 @@ public class MenuController : MonoBehaviour
         SceneManager.LoadScene(level);
     }
 
-    public void Exit(){
-        print("BYE BYE");
+    public void Exit(){       
         Application.Quit();
     }
 }
